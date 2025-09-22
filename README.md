@@ -116,5 +116,5 @@ To set up and run the project locally, follow these steps:
 
 - [Author](https://github.com/01bharatkr)
 - [Website]
-- [Email]
-- [LinkedIn]
+- [Email](01harshkr@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/bharatkumar9142/)
